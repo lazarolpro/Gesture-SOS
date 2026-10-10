@@ -26,6 +26,8 @@ El prototipo fue desarrollado en Python a partir del entrenamiento local de un p
 
 Prototipo experimental desarrollado previamente. La captura disponible documenta la detección visual de la mano durante una sesión de prueba. El rendimiento en condiciones reales, la fiabilidad del reconocimiento y cualquier mecanismo de alerta externa requieren evaluación específica antes de considerar un uso operativo.
 
+![Entrenamiento de la mano izquierda](https://github.com/lazarolpro/Gesture-SOS/blob/main/Entrena%20mano%20izquierda.jpeg)
+
 ### Enfoque de innovación
 
 El proyecto explora la aplicación práctica de herramientas de software e inteligencia artificial a un problema de interés social: facilitar la identificación de señales no verbales que podrían indicar la necesidad de ayuda en situaciones de peligro para la vida o integridad física.
