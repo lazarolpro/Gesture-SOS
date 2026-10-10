@@ -13,6 +13,8 @@ El prototipo fue desarrollado en Python a partir del entrenamiento local de un p
 - Investigar aplicaciones de la inteligencia artificial en herramientas de apoyo a la seguridad personal.
 - Evaluar las posibilidades y limitaciones de la interacción gestual como alternativa de comunicación no verbal.
 
+![Señal de pedido de auxilio en situación de peligro](https://github.com/lazarolpro/Gesture-SOS/blob/main/IMG-20220514-WA0008.jpg)
+
 ### Tecnologías y áreas de trabajo
 
 - Python
