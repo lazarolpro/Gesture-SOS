@@ -1,6 +1,6 @@
 # Gesture SOS — Prototipo de Detección de Gestos Manuales para Solicitar Auxilio
 
-**Gesture SOS** es un proyecto experimental de desarrollo propio orientado a explorar el uso de visión artificial para reconocer un gesto manual asociado a una posible señal de auxilio.
+![**Gesture SOS** es un proyecto experimental de desarrollo propio orientado a explorar el uso de visión artificial para reconocer un gesto manual asociado a una posible señal de auxilio](https://github.com/lazarolpro/Gesture-SOS/blob/main/Captura%20de%20pantalla%20de%202022-05-15%2010-03-21.png)
 
 La iniciativa surgió a partir del interés por las señales no verbales que pueden utilizarse para pedir ayuda en situaciones en las que hablar o comunicarse abiertamente resulta difícil. El proyecto explora cómo una cámara y técnicas de procesamiento de imágenes pueden contribuir a identificar una configuración específica de la mano en tiempo real.
 
